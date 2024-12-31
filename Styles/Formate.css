@@ -1,0 +1,31 @@
+.hero {
+    /* height: 100vh; */
+    background: linear-gradient(135deg,(#e66465, #9198e5));
+    background-repeat: linear-gradient(#e66465, #9198e5);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+  }
+  .boxed-header2 {
+    padding: 10px;
+    border: 1px, solid, #1991d7;
+ /* Optional: Add padding to the table header cells for spacing */
+ margin: auto;
+    display: flex;
+    justify-content: center;
+    font-size: 38px;
+    filter:drop-shadow(2px 2px 1px #1991d7);
+    text-align: center;  
+    
+  }
+  .h1,h2,h3{
+        
+    
+    border-start-end-radius: 60px,14px;
+  border-color: blueviolet;
+  border-bottom-style: dotted;
+}
